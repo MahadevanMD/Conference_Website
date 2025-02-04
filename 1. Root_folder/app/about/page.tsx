@@ -16,7 +16,7 @@ export default function About() {
 							<div className="row">
 								<div className="col-lg-4 m-auto">
 									<div className="heading1 text-center">
-										<h1>About Event</h1>
+										<h1>About ICMI 2025</h1>
 										<div className="space20" />
 										<Link href="/">Home <i className="fa-solid fa-angle-right" /> <span>About Us</span></Link>
 									</div>
@@ -63,17 +63,17 @@ export default function About() {
 								</div>
 								<div className="col-lg-6">
 									<div className="about-header-area heading2">
-										<h5 data-aos="fade-left" data-aos-duration={800}>about our Business conferences</h5>
+										<h5 data-aos="fade-left" data-aos-duration={800}>about our Med-Tech conferences</h5>
 										<div className="space16" />
-										<h2 className="text-anime-style-3">Explore Future Of Design At Our Yearly Conference</h2>
+										<h2 className="text-anime-style-3">ICMI 2025: Reshaping The Future Of Med-Tech</h2>
 										<div className="space16" />
-										<p data-aos="fade-left" data-aos-duration={900}>The Yearly Designer Conferences designed to challenge, Event inspire, and push the boundaries of what is possible in design. From emerging technologies to sustainable design practices.</p>
+										<p data-aos="fade-left" data-aos-duration={900}>ICMI 2025 reflects our commitment to advancing medical technology and innovation in an ever-evolving healthcare landscape. This conference is designed to be a hub for thought leadership, where MedTech pioneers and emerging innovators come together to share insights, ideas, and solutions.</p>
 										<div className="space32" />
 										<div className="about-counter-area">
 											<div className="counter-box">
-												<h2><CountUp className="odometer" enableScrollSpy={true} end={250} />+</h2>
+												<h2><CountUp className="odometer" enableScrollSpy={true} end={25} />+</h2>
 												<div className="space18" />
-												<p>Our Journalist</p>
+												<p>Our Experts</p>
 											</div>
 											<div className="counter-box box2">
 												<h2><CountUp className="odometer" enableScrollSpy={true} end={15} />+</h2>
@@ -81,7 +81,7 @@ export default function About() {
 												<p>Our Speaker</p>
 											</div>
 											<div className="counter-box box3" style={{ border: 'none' }}>
-												<h2><CountUp className="odometer" enableScrollSpy={true} end={7} />K+</h2>
+												<h2><CountUp className="odometer" enableScrollSpy={true} end={4} />00+</h2>
 												<div className="space18" />
 												<p>Attendees</p>
 											</div>
@@ -102,7 +102,7 @@ export default function About() {
 							<div className="row">
 								<div className="col-lg-5 m-auto">
 									<div className="brand-header heading4 space-margin60 text-center">
-										<h3>Join 4,000+ companies already growing</h3>
+										<h3>Join 50+ companies already growing</h3>
 									</div>
 								</div>
 							</div>
@@ -134,9 +134,9 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Make Ideas Happen</Link>
+											<Link href="/event-single">Exhibition</Link>
 											<div className="space16" />
-											<p>Eventify 2024 brings together the brightest minds and industry leaders for best of transformative business.</p>
+											<p>Showcasing MedTech innovations from global companies and student entrepreneurs..</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -149,9 +149,9 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Great Speakers</Link>
+											<Link href="/event-single">Startups Showcase</Link>
 											<div className="space16" />
-											<p>Whether you're looking to elevate your business strategy, discover the latest industry trends, or connect.</p>
+											<p>MedTech founders share their entrepreneurial journey and success roadmap.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -164,9 +164,9 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">One Day Ticket</Link>
+											<Link href="/event-single">Panel Discussion</Link>
 											<div className="space16" />
-											<p>We empower businesses to thrive in an ever-evolving marketplace. This conference more than just an event.</p>
+											<p>Industry and academia discuss solutions to key healthcare challenges.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -179,9 +179,9 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Develop Your Skills</Link>
+											<Link href="/event-single">Hackathon</Link>
 											<div className="space16" />
-											<p>Eventify is your gateway to future of business. By bringing together best experts from various sectors.</p>
+											<p>Collaboration between doctors and engineers to tackle healthcare problems.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -194,9 +194,9 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Entry Verification</Link>
+											<Link href="/event-single">Plenary Talk</Link>
 											<div className="space16" />
-											<p>You'll walk away with a deeper best understanding of emerging trends and actionable strategies that can.</p>
+											<p>Insights from eminent scientists, policymakers, and clinicians.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -209,9 +209,9 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Workshops Offer</Link>
+											<Link href="/event-single">Scientific Papers</Link>
 											<div className="space16" />
-											<p>Designed for forward-thinking and professionals, this event delivers the tools, connections, and insights you.</p>
+											<p>Presentations on cutting-edge medical research and innovation.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -261,10 +261,10 @@ export default function About() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />15 - 17 Febuary 2025</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />IIT Jodhpur & AIIMS Jodhpur</Link>
 											</li>
 										</ul>
 									</div>

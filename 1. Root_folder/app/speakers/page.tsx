@@ -55,9 +55,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alex Robertson</Link>
+											<Link href="/speakers-single">Prof. Sushmita Jha </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Department of Biosciences & Bioengineering, IIT-J</p>
 										</div>
 									</div>
 								</div>
@@ -89,9 +89,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alexy Sammony</Link>
+											<Link href="/speakers-single">Prof. Sampat Raj Vadera </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Deputy Director, IIT-J</p>
 										</div>
 									</div>
 								</div>
@@ -123,9 +123,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Kireon Pollardy</Link>
+											<Link href="/speakers-single">Prof. Avinash Kumar Agarwal </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Director, IIT Jodhpur</p>
 										</div>
 									</div>
 								</div>
@@ -157,9 +157,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Adresy Ineasta</Link>
+											<Link href="/speakers-single">Dr. Manoj Kamal </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Professor, Department of Anesthesia & Critical Care, AIIMS Jodhpur</p>
 										</div>
 									</div>
 								</div>
@@ -191,9 +191,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alex Robertson</Link>
+											<Link href="/speakers-single">Dr. Deepak Kumar Jha </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Professor & Head, Department of Neurosurgery, AIIMS Jodhpur</p>
 										</div>
 									</div>
 								</div>
@@ -225,9 +225,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alexy Sammony</Link>
+											<Link href="/speakers-single">Prof. Goverdhan Dutt Puri </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Executive Director, AIIMS Jodhpur</p>
 										</div>
 									</div>
 								</div>
@@ -259,9 +259,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alexy Sammony</Link>
+											<Link href="/speakers-single">Dr. Siddharth Srivastava </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Professor of Practice, Biosciences & Bioengineering, IIT-J</p>
 										</div>
 									</div>
 								</div>
@@ -293,9 +293,9 @@ export default function Speakers() {
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Adresy Ineasta</Link>
+											<Link href="/speakers-single">Dr. Anubhav Gupta </Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Associate Professor, Transfusion Medicine & Blood Bank, AIIMS-J</p>
 										</div>
 									</div>
 								</div>
@@ -317,10 +317,10 @@ export default function Speakers() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />15-17 Febuary 2025</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />IIT Jodhour & AIIMS Jodhpur</Link>
 											</li>
 										</ul>
 									</div>
@@ -343,10 +343,10 @@ export default function Speakers() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />15-17 Febuary 2025</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />IIT Jodhpur & AIIMS Jodhpur</Link>
 											</li>
 										</ul>
 									</div>

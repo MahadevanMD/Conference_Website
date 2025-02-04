@@ -57,7 +57,7 @@ export default function Section2() {
 									<div className="text">
 										<Link href="/#">Exclusive Keynotes</Link>
 										<div className="space12" />
-										<p>The title captures our mission to empower businesses to not only adapt but lead in
+										<p>The123 title captures our mission to empower businesses to not only adapt but lead in
 											this new era of digital.</p>
 									</div>
 								</div>

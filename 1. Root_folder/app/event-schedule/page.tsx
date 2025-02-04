@@ -41,9 +41,9 @@ export default function EventSchedule() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Make Ideas Happen</Link>
+											<Link href="/event-single">Plenary Talks</Link>
 											<div className="space16" />
-											<p>Eventify 2024 brings together the brightest minds and industry leaders for best of transformative business.</p>
+											<p>Immerse yourself in insightful discussions led by renowned experts, focusing on cutting-edge advancements and transformative ideas.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -56,9 +56,9 @@ export default function EventSchedule() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Great Speakers</Link>
+											<Link href="/event-single">Scientific Paper Presentations</Link>
 											<div className="space16" />
-											<p>Whether you're looking to elevate your business strategy, discover the latest industry trends, or connect.</p>
+											<p>Discover groundbreaking research as professionals present their innovative findings and methodologies.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -71,9 +71,9 @@ export default function EventSchedule() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">One Day Ticket</Link>
+											<Link href="/event-single">Hackathon & Valedictory Ceremony</Link>
 											<div className="space16" />
-											<p>We empower businesses to thrive in an ever-evolving marketplace. This conference more than just an event.</p>
+											<p>Experience the excitement of the grand finale of the Hackathon, followed by a celebratory Valedictory Ceremony.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -87,47 +87,59 @@ export default function EventSchedule() {
 					<div className="schedule-section-area sp10">
 						<div className="container">
 							<div className="row">
-								<div className="col-lg-11 m-auto">
+								<div className="col-lg-14 m-auto">
 									<div className="schedule">
 										<table>
 											<thead>
 												<tr>
 													<th>Time</th>
-													<th>Friday</th>
 													<th>Saturday</th>
 													<th>Sunday</th>
+													<th>Monday</th>
 												</tr>
 											</thead>
 											<tbody>
 												<tr>
-													<td>09:00-10:00 AM</td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
+													<td>9:30-10:45 AM</td>
+													<td>Registrations<br /><span></span></td>
+													<td>Plenary Talk<br/><span></span></td>
+													<td>Plenary Talk<br /><span></span></td>
 												</tr>
 												<tr>
-													<td>09:00-10:00 AM</td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
+													<td>11:00-12:30 PM</td>
+													<td>Inauguration & Keynote Speech<br /><span></span></td>
+													<td>Plenary Talk<br /><span></span></td>
+													<td>Hackathon - Grand Finale<br /><span></span></td>
 												</tr>
 												<tr>
-													<td>09:00-10:00 AM</td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
+													<td>12:45-2:00 PM</td>
+													<td>Exhibition & Networking Lunch<br /><span></span></td>
+													<td>Startup Showcase & Networking Lunch<br /><span></span></td>
+													<td>Valedictory Ceremony<br /><span></span></td>
 												</tr>
 												<tr>
-													<td>09:00-10:00 AM</td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
+													<td>2:10-3:10 PM</td>
+													<td>Plenary Talk<br /><span></span></td>
+													<td>Plenary Talk<br /><span></span></td>
+													<td><br /><span></span></td>
 												</tr>
 												<tr>
-													<td>09:00-10:00 AM</td>
-													<td>Business Conferences<br /><span>By Event Organizer</span></td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
-													<td>UI/UX Design<br /><span>By Event Organizer</span></td>
+													<td>3:15-4:30 PM</td>
+													<td>Scientific Paper Presentations<br /><span></span></td>
+													<td>Scientific Paper Presentations<br /><span></span></td>
+													<td><br /><span></span></td>
+												</tr>
+												<tr>
+													<td>4:30-4:50 PM</td>
+													<td>Networking Tea Break<br /><span></span></td>
+													<td>Networking Tea Break<br /><span></span></td>
+													<td><br /><span></span></td>
+												</tr>
+												<tr>
+													<td>5:00-6:30 PM</td>
+													<td>Hackathon - Preliminary Round<br /><span></span></td>
+													<td>Investor’s Forum<br /><span></span></td>
+													<td><br /><span></span></td>
 												</tr>
 											</tbody>
 										</table>
